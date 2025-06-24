@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\TestowyKolos2.props" />
-</Project>
